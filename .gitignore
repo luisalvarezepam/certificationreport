@@ -3,3 +3,5 @@
 *.zip
 *.png
 .DS_Store
+charts/*
+pth
