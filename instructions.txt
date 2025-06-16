@@ -1,0 +1,9 @@
+install 
+pandas 
+matplotlib 
+seaborn 
+fpdf 
+openpyxl 
+xlsxwriter 
+beautifulsoup4 
+requests
